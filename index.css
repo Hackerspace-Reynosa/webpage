@@ -99,7 +99,7 @@ p {
 }
 
 .container {
-	display: block;
+	/*display: block;*/
 	overflow: hidden;
 	box-sizing: border-box;
 	width: 100%;
